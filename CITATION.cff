@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or the replication prior, please cite it as below."
+title: "In the Meantime: A Bayesian replication prior for psychology"
+abstract: >-
+  A Bayesian hierarchical prior, trained on five replication corpora
+  (OSC 2015, Many Labs 1, Many Labs 2, Camerer 2018, and validated
+  out-of-sample on SCORE), that forecasts the replication effect size
+  of a new psychology study from its original effect and the planned
+  replication sample size. Includes the full reproducible analysis,
+  data, posterior draws, and a portable paste-in prior.
+type: software
+authors:
+  - family-names: Blair
+    given-names: J. Pete
+    affiliation: "ALERRT Center, Texas State University"
+version: 1.0.0
+date-released: 2026-06-08
+license: CC-BY-4.0
+repository-code: "https://github.com/ALERRT-Research/PROJ_psych_replication_prior"
+keywords:
+  - replication
+  - psychology
+  - Bayesian
+  - meta-science
+  - prior
+  - effect size
