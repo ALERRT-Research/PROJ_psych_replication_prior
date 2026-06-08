@@ -102,7 +102,7 @@ suite (multilab ladder, leave-one-corpus-out, prior sensitivity), about
 ## Citation
 
 If you use this software or the replication prior, please cite it using the
-metadata in `CITATION.cff`, or the archived release via its Zenodo DOI.
+metadata in `CITATION.cff`, or the archived release via its Zenodo DOI. DOI: 10.5281/zenodo.20597680
 
 ## License
 
